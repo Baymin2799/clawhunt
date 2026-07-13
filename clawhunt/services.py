@@ -38,10 +38,7 @@ def start_frontend(root: Path, node_exe: str, config: Dict) -> subprocess.Popen:
     env["Path"] = node_dir + os.pathsep + env.get("Path", "")
     env["PORT"] = str(port)
 
-    npm_path = Path(node_dir) / "npm"
-    if not npm_path.exists():
-        npm_path = Path(node_dir) / "npm.cmd"
-    cmd = [str(npm_path), "run", "dev"]
+    cmd = ["npm", "run", "dev"]
 
     print(f"[INFO] Starting frontend on http://{host}:{port}")
     print(f"[INFO] Working directory: {frontend_dir}")
