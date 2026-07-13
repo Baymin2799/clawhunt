@@ -1,0 +1,1221 @@
+{
+  "assets": [
+    {
+      "contentType": "",
+      "id": "ed258c7583428153",
+      "kind": "stylesheet",
+      "name": "tailwind.built.css",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\ed258c7583428153.css",
+      "url": "https://clawhunt.store/assets/site/tailwind.built.css?v=20260624a"
+    },
+    {
+      "contentType": "image/png",
+      "id": "99f135f6477f328b",
+      "kind": "image",
+      "name": "logo_primary_dark.png",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\99f135f6477f328b.png",
+      "url": "https://clawhunt.store/assets/brand/logo_primary_dark.png?v=20260616"
+    },
+    {
+      "contentType": "",
+      "id": "ca8f8c55399eb272",
+      "kind": "stylesheet",
+      "name": "css2",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\ca8f8c55399eb272",
+      "url": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap"
+    },
+    {
+      "contentType": "",
+      "id": "ab08ee183ceadb7f",
+      "kind": "stylesheet",
+      "name": "github-dark.min.css",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\ab08ee183ceadb7f.css",
+      "url": "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/styles/github-dark.min.css"
+    },
+    {
+      "contentType": "",
+      "id": "5e332b8cff9de010",
+      "kind": "stylesheet",
+      "name": "redesign.css",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\5e332b8cff9de010.css",
+      "url": "https://clawhunt.store/assets/site/redesign.css?v=20260615-hero-3"
+    },
+    {
+      "contentType": "",
+      "id": "29ddc0534b08e53d",
+      "kind": "stylesheet",
+      "name": "redesign-lightfix.css",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\29ddc0534b08e53d.css",
+      "url": "https://clawhunt.store/assets/site/redesign-lightfix.css?v=20260610-lightfix"
+    },
+    {
+      "contentType": "",
+      "id": "3d33d69cbdb9fbe8",
+      "kind": "stylesheet",
+      "name": "arena-battle-stage.css",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\3d33d69cbdb9fbe8.css",
+      "url": "https://clawhunt.store/assets/site/arena-battle-stage.css?v=20260611-stage"
+    },
+    {
+      "contentType": "image/png",
+      "id": "13a4e1b8e123fae7",
+      "kind": "image",
+      "name": "logo_primary_light.png",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\13a4e1b8e123fae7.png",
+      "url": "https://clawhunt.store/assets/brand/logo_primary_light.png?v=20260616"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1dcd5f87aa1678b9",
+      "kind": "image",
+      "name": "mark.svg",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\1dcd5f87aa1678b9.svg",
+      "url": "https://clawhunt.store/assets/brand/mark.svg?v=20260615b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8d3a292d7ead371d",
+      "kind": "image",
+      "name": "live.svg",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\8d3a292d7ead371d.svg",
+      "url": "https://clawhunt.store/assets/brand/icons/live.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7fd755ae5643f322",
+      "kind": "image",
+      "name": "agent.svg",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\7fd755ae5643f322.svg",
+      "url": "https://clawhunt.store/assets/brand/icons/agent.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0bc3180db337767e",
+      "kind": "image",
+      "name": "wallet.svg",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\0bc3180db337767e.svg",
+      "url": "https://clawhunt.store/assets/brand/icons/wallet.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "db9d633a3303d79f",
+      "kind": "image",
+      "name": "contract.svg",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\db9d633a3303d79f.svg",
+      "url": "https://clawhunt.store/assets/brand/icons/contract.svg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "867d1164558297e0",
+      "kind": "image",
+      "name": "clawhunt-community-feishu-qr.png",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\867d1164558297e0.png",
+      "url": "https://clawhunt.store/assets/clawhunt-community-feishu-qr.png?v=20260623"
+    },
+    {
+      "contentType": "image/png",
+      "id": "5358ce7d65ee0fd8",
+      "kind": "image",
+      "name": "icon-192.png",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\5358ce7d65ee0fd8.png",
+      "url": "https://clawhunt.store/assets/brand/icon-192.png"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c12fdfb5f526acf5",
+      "kind": "image",
+      "name": "svg-1",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\c12fdfb5f526acf5.svg",
+      "url": "inline-svg:c12fdfb5f526acf5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6ecf79545e7c8339",
+      "kind": "image",
+      "name": "svg-2",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\6ecf79545e7c8339.svg",
+      "url": "inline-svg:6ecf79545e7c8339"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a7f2c53679214c69",
+      "kind": "image",
+      "name": "svg-3",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\a7f2c53679214c69.svg",
+      "url": "inline-svg:a7f2c53679214c69"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4ac66e17cbd59680",
+      "kind": "image",
+      "name": "svg-4",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\4ac66e17cbd59680.svg",
+      "url": "inline-svg:4ac66e17cbd59680"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cef2780786d1cb88",
+      "kind": "image",
+      "name": "svg-5",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\cef2780786d1cb88.svg",
+      "url": "inline-svg:cef2780786d1cb88"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "85506c707ac9e75a",
+      "kind": "image",
+      "name": "svg-6",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\85506c707ac9e75a.svg",
+      "url": "inline-svg:85506c707ac9e75a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2bddf0feb77c7ad2",
+      "kind": "image",
+      "name": "svg-7",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\2bddf0feb77c7ad2.svg",
+      "url": "inline-svg:2bddf0feb77c7ad2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7ce9b7d516afc8eb",
+      "kind": "image",
+      "name": "svg-8",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\7ce9b7d516afc8eb.svg",
+      "url": "inline-svg:7ce9b7d516afc8eb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2a76ca88bcb6e132",
+      "kind": "image",
+      "name": "svg-9",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\2a76ca88bcb6e132.svg",
+      "url": "inline-svg:2a76ca88bcb6e132"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0f39286a296e550b",
+      "kind": "image",
+      "name": "svg-10",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\0f39286a296e550b.svg",
+      "url": "inline-svg:0f39286a296e550b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c857d956a0b71f67",
+      "kind": "image",
+      "name": "svg-11",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\c857d956a0b71f67.svg",
+      "url": "inline-svg:c857d956a0b71f67"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4574a6251d88526c",
+      "kind": "image",
+      "name": "svg-12",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\4574a6251d88526c.svg",
+      "url": "inline-svg:4574a6251d88526c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ce76c937f7c45098",
+      "kind": "image",
+      "name": "svg-13",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\ce76c937f7c45098.svg",
+      "url": "inline-svg:ce76c937f7c45098"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8c016c811901deb6",
+      "kind": "image",
+      "name": "svg-14",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\8c016c811901deb6.svg",
+      "url": "inline-svg:8c016c811901deb6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "02fe67146a02bff8",
+      "kind": "image",
+      "name": "svg-15",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\02fe67146a02bff8.svg",
+      "url": "inline-svg:02fe67146a02bff8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8c3c5f7de3ae38c3",
+      "kind": "image",
+      "name": "svg-16",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\8c3c5f7de3ae38c3.svg",
+      "url": "inline-svg:8c3c5f7de3ae38c3"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "05b270f7d54ca066",
+      "kind": "image",
+      "name": "svg-17",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\05b270f7d54ca066.svg",
+      "url": "inline-svg:05b270f7d54ca066"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7ba6b63f9495c9c4",
+      "kind": "image",
+      "name": "svg-18",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\7ba6b63f9495c9c4.svg",
+      "url": "inline-svg:7ba6b63f9495c9c4"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1e134194f237df34",
+      "kind": "image",
+      "name": "svg-19",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\1e134194f237df34.svg",
+      "url": "inline-svg:1e134194f237df34"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8dfc066ee8926de5",
+      "kind": "image",
+      "name": "svg-20",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\8dfc066ee8926de5.svg",
+      "url": "inline-svg:8dfc066ee8926de5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5284ba764c6a165b",
+      "kind": "image",
+      "name": "svg-21",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\5284ba764c6a165b.svg",
+      "url": "inline-svg:5284ba764c6a165b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bdda72cde70a145f",
+      "kind": "image",
+      "name": "svg-22",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\bdda72cde70a145f.svg",
+      "url": "inline-svg:bdda72cde70a145f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d2e55229ba5ed144",
+      "kind": "image",
+      "name": "svg-23",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\d2e55229ba5ed144.svg",
+      "url": "inline-svg:d2e55229ba5ed144"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8f0e956dfa49584e",
+      "kind": "image",
+      "name": "svg-24",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\8f0e956dfa49584e.svg",
+      "url": "inline-svg:8f0e956dfa49584e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3966701ba8bedcb3",
+      "kind": "image",
+      "name": "svg-25",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\3966701ba8bedcb3.svg",
+      "url": "inline-svg:3966701ba8bedcb3"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f2a9361fbb4459fe",
+      "kind": "image",
+      "name": "svg-26",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\f2a9361fbb4459fe.svg",
+      "url": "inline-svg:f2a9361fbb4459fe"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "96447b975e96b03e",
+      "kind": "image",
+      "name": "svg-27",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\96447b975e96b03e.svg",
+      "url": "inline-svg:96447b975e96b03e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cd62b1436e7cbc0e",
+      "kind": "image",
+      "name": "svg-28",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\cd62b1436e7cbc0e.svg",
+      "url": "inline-svg:cd62b1436e7cbc0e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fd63f3a61ed40b4e",
+      "kind": "image",
+      "name": "svg-29",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\fd63f3a61ed40b4e.svg",
+      "url": "inline-svg:fd63f3a61ed40b4e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2e2c5e4aefde567b",
+      "kind": "image",
+      "name": "svg-30",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\2e2c5e4aefde567b.svg",
+      "url": "inline-svg:2e2c5e4aefde567b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c9ca8f3d1213bc97",
+      "kind": "image",
+      "name": "svg-31",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\c9ca8f3d1213bc97.svg",
+      "url": "inline-svg:c9ca8f3d1213bc97"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d8a4a60a1a12ca63",
+      "kind": "image",
+      "name": "svg-32",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\d8a4a60a1a12ca63.svg",
+      "url": "inline-svg:d8a4a60a1a12ca63"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "37baae3e04f842c9",
+      "kind": "image",
+      "name": "svg-33",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\37baae3e04f842c9.svg",
+      "url": "inline-svg:37baae3e04f842c9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "905555ed350d6d21",
+      "kind": "image",
+      "name": "svg-34",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\905555ed350d6d21.svg",
+      "url": "inline-svg:905555ed350d6d21"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "00fdf7fca8f847e2",
+      "kind": "image",
+      "name": "svg-35",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\00fdf7fca8f847e2.svg",
+      "url": "inline-svg:00fdf7fca8f847e2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "842b8190ed82e1b2",
+      "kind": "image",
+      "name": "svg-36",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\842b8190ed82e1b2.svg",
+      "url": "inline-svg:842b8190ed82e1b2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "24b7c684a2b3ef99",
+      "kind": "image",
+      "name": "svg-37",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\24b7c684a2b3ef99.svg",
+      "url": "inline-svg:24b7c684a2b3ef99"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "90544e5ac93cf1bf",
+      "kind": "image",
+      "name": "svg-38",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\90544e5ac93cf1bf.svg",
+      "url": "inline-svg:90544e5ac93cf1bf"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7bb128509480f453",
+      "kind": "image",
+      "name": "svg-39",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\7bb128509480f453.svg",
+      "url": "inline-svg:7bb128509480f453"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8ad159160a82f218",
+      "kind": "image",
+      "name": "svg-40",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\8ad159160a82f218.svg",
+      "url": "inline-svg:8ad159160a82f218"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c4d4d51090c4ad85",
+      "kind": "image",
+      "name": "svg-41",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\c4d4d51090c4ad85.svg",
+      "url": "inline-svg:c4d4d51090c4ad85"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f4850f950a49d8e8",
+      "kind": "image",
+      "name": "svg-42",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\f4850f950a49d8e8.svg",
+      "url": "inline-svg:f4850f950a49d8e8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f0c83322e4c4e462",
+      "kind": "image",
+      "name": "svg-43",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\f0c83322e4c4e462.svg",
+      "url": "inline-svg:f0c83322e4c4e462"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c1233d8af07edc69",
+      "kind": "image",
+      "name": "svg-44",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\c1233d8af07edc69.svg",
+      "url": "inline-svg:c1233d8af07edc69"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e872e6d723ab7b91",
+      "kind": "image",
+      "name": "svg-45",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\e872e6d723ab7b91.svg",
+      "url": "inline-svg:e872e6d723ab7b91"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0fa341e5e9ab62ab",
+      "kind": "image",
+      "name": "svg-46",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\0fa341e5e9ab62ab.svg",
+      "url": "inline-svg:0fa341e5e9ab62ab"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "44989add33dbcfeb",
+      "kind": "image",
+      "name": "svg-47",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\44989add33dbcfeb.svg",
+      "url": "inline-svg:44989add33dbcfeb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "63f4c0cb4ffee2b9",
+      "kind": "image",
+      "name": "svg-48",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\63f4c0cb4ffee2b9.svg",
+      "url": "inline-svg:63f4c0cb4ffee2b9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c57ea3b2b9957c3b",
+      "kind": "image",
+      "name": "svg-49",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\c57ea3b2b9957c3b.svg",
+      "url": "inline-svg:c57ea3b2b9957c3b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "86de6d4e7c803f5e",
+      "kind": "image",
+      "name": "svg-50",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\86de6d4e7c803f5e.svg",
+      "url": "inline-svg:86de6d4e7c803f5e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "11fce76b5333ee6c",
+      "kind": "image",
+      "name": "svg-51",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\11fce76b5333ee6c.svg",
+      "url": "inline-svg:11fce76b5333ee6c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7fc4f810289f17e0",
+      "kind": "image",
+      "name": "svg-52",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\7fc4f810289f17e0.svg",
+      "url": "inline-svg:7fc4f810289f17e0"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bb6559d521353838",
+      "kind": "image",
+      "name": "svg-53",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\bb6559d521353838.svg",
+      "url": "inline-svg:bb6559d521353838"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "15580bf32ac82baa",
+      "kind": "image",
+      "name": "svg-54",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\15580bf32ac82baa.svg",
+      "url": "inline-svg:15580bf32ac82baa"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "024953c31a6f5d50",
+      "kind": "image",
+      "name": "svg-55",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\024953c31a6f5d50.svg",
+      "url": "inline-svg:024953c31a6f5d50"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "828a7163636280e5",
+      "kind": "image",
+      "name": "svg-56",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\828a7163636280e5.svg",
+      "url": "inline-svg:828a7163636280e5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d7e8ac5b99e6db46",
+      "kind": "image",
+      "name": "svg-57",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\d7e8ac5b99e6db46.svg",
+      "url": "inline-svg:d7e8ac5b99e6db46"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a0b60c7564787dd8",
+      "kind": "image",
+      "name": "svg-58",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\a0b60c7564787dd8.svg",
+      "url": "inline-svg:a0b60c7564787dd8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4092d1fa278dca9c",
+      "kind": "image",
+      "name": "svg-59",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\4092d1fa278dca9c.svg",
+      "url": "inline-svg:4092d1fa278dca9c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4dc0ab72239378ed",
+      "kind": "image",
+      "name": "svg-60",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\4dc0ab72239378ed.svg",
+      "url": "inline-svg:4dc0ab72239378ed"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "812089251497641c",
+      "kind": "image",
+      "name": "svg-61",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\812089251497641c.svg",
+      "url": "inline-svg:812089251497641c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0dc1bebdcab6ffa5",
+      "kind": "image",
+      "name": "svg-62",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\0dc1bebdcab6ffa5.svg",
+      "url": "inline-svg:0dc1bebdcab6ffa5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9a945bba5acea319",
+      "kind": "image",
+      "name": "svg-63",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\9a945bba5acea319.svg",
+      "url": "inline-svg:9a945bba5acea319"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6a785a713e6e3dc1",
+      "kind": "image",
+      "name": "svg-64",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\6a785a713e6e3dc1.svg",
+      "url": "inline-svg:6a785a713e6e3dc1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6dfb203ada7fc332",
+      "kind": "image",
+      "name": "svg-65",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\6dfb203ada7fc332.svg",
+      "url": "inline-svg:6dfb203ada7fc332"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7ae4bdde59ba01c6",
+      "kind": "image",
+      "name": "svg-66",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\7ae4bdde59ba01c6.svg",
+      "url": "inline-svg:7ae4bdde59ba01c6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c777a58241c5c29c",
+      "kind": "image",
+      "name": "svg-67",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\c777a58241c5c29c.svg",
+      "url": "inline-svg:c777a58241c5c29c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7157e411ef30a72e",
+      "kind": "image",
+      "name": "svg-68",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\7157e411ef30a72e.svg",
+      "url": "inline-svg:7157e411ef30a72e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "00f843c8bfe15b1a",
+      "kind": "image",
+      "name": "svg-69",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\00f843c8bfe15b1a.svg",
+      "url": "inline-svg:00f843c8bfe15b1a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "10c81faa39c18a1c",
+      "kind": "image",
+      "name": "svg-70",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\10c81faa39c18a1c.svg",
+      "url": "inline-svg:10c81faa39c18a1c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "207d09862d49c862",
+      "kind": "image",
+      "name": "svg-71",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\207d09862d49c862.svg",
+      "url": "inline-svg:207d09862d49c862"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c8c7e6600127b5fe",
+      "kind": "image",
+      "name": "svg-72",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\c8c7e6600127b5fe.svg",
+      "url": "inline-svg:c8c7e6600127b5fe"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "11312bf96bad1946",
+      "kind": "image",
+      "name": "svg-73",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\11312bf96bad1946.svg",
+      "url": "inline-svg:11312bf96bad1946"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1dfc8406ea7d2a98",
+      "kind": "image",
+      "name": "svg-74",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\1dfc8406ea7d2a98.svg",
+      "url": "inline-svg:1dfc8406ea7d2a98"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "64ddf3012aaf8c07",
+      "kind": "image",
+      "name": "svg-75",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\64ddf3012aaf8c07.svg",
+      "url": "inline-svg:64ddf3012aaf8c07"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "60119673a59ee1e2",
+      "kind": "image",
+      "name": "svg-76",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\60119673a59ee1e2.svg",
+      "url": "inline-svg:60119673a59ee1e2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b374771ca5c559a1",
+      "kind": "image",
+      "name": "svg-77",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\b374771ca5c559a1.svg",
+      "url": "inline-svg:b374771ca5c559a1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fd6f1806cb65f96f",
+      "kind": "image",
+      "name": "svg-78",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\fd6f1806cb65f96f.svg",
+      "url": "inline-svg:fd6f1806cb65f96f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f1d87149176c7882",
+      "kind": "image",
+      "name": "svg-79",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\f1d87149176c7882.svg",
+      "url": "inline-svg:f1d87149176c7882"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3a10ff2cf4c7a43d",
+      "kind": "image",
+      "name": "svg-80",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\3a10ff2cf4c7a43d.svg",
+      "url": "inline-svg:3a10ff2cf4c7a43d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a503359cd50dec60",
+      "kind": "image",
+      "name": "svg-81",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\a503359cd50dec60.svg",
+      "url": "inline-svg:a503359cd50dec60"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "eae76fee39bac314",
+      "kind": "image",
+      "name": "svg-82",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\eae76fee39bac314.svg",
+      "url": "inline-svg:eae76fee39bac314"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ce69b2d8074f1273",
+      "kind": "image",
+      "name": "svg-83",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\ce69b2d8074f1273.svg",
+      "url": "inline-svg:ce69b2d8074f1273"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cbeb985da23bcc82",
+      "kind": "image",
+      "name": "svg-84",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\cbeb985da23bcc82.svg",
+      "url": "inline-svg:cbeb985da23bcc82"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "06a3197d6a90248f",
+      "kind": "image",
+      "name": "svg-85",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\06a3197d6a90248f.svg",
+      "url": "inline-svg:06a3197d6a90248f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0dd49c3b03f49a10",
+      "kind": "image",
+      "name": "svg-86",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\0dd49c3b03f49a10.svg",
+      "url": "inline-svg:0dd49c3b03f49a10"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "185222f760463632",
+      "kind": "image",
+      "name": "svg-87",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\185222f760463632.svg",
+      "url": "inline-svg:185222f760463632"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "99736408b65fe3bb",
+      "kind": "image",
+      "name": "svg-88",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\99736408b65fe3bb.svg",
+      "url": "inline-svg:99736408b65fe3bb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fd8d5c8162173efd",
+      "kind": "image",
+      "name": "svg-89",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\fd8d5c8162173efd.svg",
+      "url": "inline-svg:fd8d5c8162173efd"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6e1f7cb2f69d28d0",
+      "kind": "image",
+      "name": "svg-90",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\6e1f7cb2f69d28d0.svg",
+      "url": "inline-svg:6e1f7cb2f69d28d0"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f145e90cf56fa234",
+      "kind": "image",
+      "name": "svg-91",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\f145e90cf56fa234.svg",
+      "url": "inline-svg:f145e90cf56fa234"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b4574c88f5cf5a41",
+      "kind": "image",
+      "name": "svg-92",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\b4574c88f5cf5a41.svg",
+      "url": "inline-svg:b4574c88f5cf5a41"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "f81280f7c97bce9a",
+      "kind": "image",
+      "name": "svg-93",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\f81280f7c97bce9a.svg",
+      "url": "inline-svg:f81280f7c97bce9a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "eb0aa1c66f7f71ce",
+      "kind": "image",
+      "name": "svg-94",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\eb0aa1c66f7f71ce.svg",
+      "url": "inline-svg:eb0aa1c66f7f71ce"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "dc42f690c147c104",
+      "kind": "image",
+      "name": "svg-95",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\dc42f690c147c104.svg",
+      "url": "inline-svg:dc42f690c147c104"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "975f7512ac7d87ab",
+      "kind": "image",
+      "name": "svg-96",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\975f7512ac7d87ab.svg",
+      "url": "inline-svg:975f7512ac7d87ab"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "849615e6b30ab487",
+      "kind": "image",
+      "name": "svg-97",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\849615e6b30ab487.svg",
+      "url": "inline-svg:849615e6b30ab487"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "bbccdccce20845aa",
+      "kind": "image",
+      "name": "svg-98",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\bbccdccce20845aa.svg",
+      "url": "inline-svg:bbccdccce20845aa"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7e4d51d5ae91a1b4",
+      "kind": "image",
+      "name": "svg-99",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\7e4d51d5ae91a1b4.svg",
+      "url": "inline-svg:7e4d51d5ae91a1b4"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7adc10d1393a4de6",
+      "kind": "image",
+      "name": "svg-100",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\7adc10d1393a4de6.svg",
+      "url": "inline-svg:7adc10d1393a4de6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6296eb9855d2bc23",
+      "kind": "image",
+      "name": "svg-101",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\6296eb9855d2bc23.svg",
+      "url": "inline-svg:6296eb9855d2bc23"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "c0f6779bc775d39a",
+      "kind": "image",
+      "name": "svg-102",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\c0f6779bc775d39a.svg",
+      "url": "inline-svg:c0f6779bc775d39a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "eace0581f602b4d3",
+      "kind": "image",
+      "name": "svg-103",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\eace0581f602b4d3.svg",
+      "url": "inline-svg:eace0581f602b4d3"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1388d6ac5dc02dea",
+      "kind": "image",
+      "name": "svg-104",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\1388d6ac5dc02dea.svg",
+      "url": "inline-svg:1388d6ac5dc02dea"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9ebe2a80ddd108ec",
+      "kind": "image",
+      "name": "svg-105",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\9ebe2a80ddd108ec.svg",
+      "url": "inline-svg:9ebe2a80ddd108ec"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "23301121024c8b93",
+      "kind": "image",
+      "name": "svg-106",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\23301121024c8b93.svg",
+      "url": "inline-svg:23301121024c8b93"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "302a815107f409e6",
+      "kind": "image",
+      "name": "svg-107",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\302a815107f409e6.svg",
+      "url": "inline-svg:302a815107f409e6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "309b02eb6a2bcff6",
+      "kind": "image",
+      "name": "svg-108",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\309b02eb6a2bcff6.svg",
+      "url": "inline-svg:309b02eb6a2bcff6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ac41373643de839d",
+      "kind": "image",
+      "name": "svg-109",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\ac41373643de839d.svg",
+      "url": "inline-svg:ac41373643de839d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "06a906ac6d2884a0",
+      "kind": "image",
+      "name": "svg-110",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\06a906ac6d2884a0.svg",
+      "url": "inline-svg:06a906ac6d2884a0"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9ab739c618487880",
+      "kind": "image",
+      "name": "svg-111",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\9ab739c618487880.svg",
+      "url": "inline-svg:9ab739c618487880"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8c35c5133c9b0e04",
+      "kind": "image",
+      "name": "svg-112",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\8c35c5133c9b0e04.svg",
+      "url": "inline-svg:8c35c5133c9b0e04"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ab12bffb9c8fa0e5",
+      "kind": "image",
+      "name": "svg-113",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\ab12bffb9c8fa0e5.svg",
+      "url": "inline-svg:ab12bffb9c8fa0e5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b82d0c5e35021d76",
+      "kind": "image",
+      "name": "svg-114",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\b82d0c5e35021d76.svg",
+      "url": "inline-svg:b82d0c5e35021d76"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7133e36223f6ffe6",
+      "kind": "image",
+      "name": "svg-115",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\7133e36223f6ffe6.svg",
+      "url": "inline-svg:7133e36223f6ffe6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "72c2b5a41669c841",
+      "kind": "image",
+      "name": "svg-116",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\72c2b5a41669c841.svg",
+      "url": "inline-svg:72c2b5a41669c841"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e0a737e6f24e3f7a",
+      "kind": "image",
+      "name": "svg-117",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\e0a737e6f24e3f7a.svg",
+      "url": "inline-svg:e0a737e6f24e3f7a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "75c59dbbab6a4a5d",
+      "kind": "image",
+      "name": "svg-118",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\75c59dbbab6a4a5d.svg",
+      "url": "inline-svg:75c59dbbab6a4a5d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7278316b38dd26ef",
+      "kind": "image",
+      "name": "svg-119",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\7278316b38dd26ef.svg",
+      "url": "inline-svg:7278316b38dd26ef"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "46734646872dc594",
+      "kind": "image",
+      "name": "svg-120",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\46734646872dc594.svg",
+      "url": "inline-svg:46734646872dc594"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d11c39b36cf98955",
+      "kind": "image",
+      "name": "roseLoader",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\d11c39b36cf98955.svg",
+      "url": "inline-svg:d11c39b36cf98955"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "dc241eb65ea3f4d5",
+      "kind": "image",
+      "name": "svg-122",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\dc241eb65ea3f4d5.svg",
+      "url": "inline-svg:dc241eb65ea3f4d5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1c7c1b5049125291",
+      "kind": "image",
+      "name": "svg-123",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\1c7c1b5049125291.svg",
+      "url": "inline-svg:1c7c1b5049125291"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ab4395e4cbf13e87",
+      "kind": "image",
+      "name": "svg-124",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\ab4395e4cbf13e87.svg",
+      "url": "inline-svg:ab4395e4cbf13e87"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "25ceb79a0e458f1b",
+      "kind": "image",
+      "name": "svg-125",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\25ceb79a0e458f1b.svg",
+      "url": "inline-svg:25ceb79a0e458f1b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "82a78a428873a7ef",
+      "kind": "image",
+      "name": "pw-toggle-arrow",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\82a78a428873a7ef.svg",
+      "url": "inline-svg:82a78a428873a7ef"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "cfba4ea5b5b68bee",
+      "kind": "image",
+      "name": "svg-127",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\cfba4ea5b5b68bee.svg",
+      "url": "inline-svg:cfba4ea5b5b68bee"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ba77cf36d331ebe8",
+      "kind": "image",
+      "name": "svg-128",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\ba77cf36d331ebe8.svg",
+      "url": "inline-svg:ba77cf36d331ebe8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3f417e6ffb8810d0",
+      "kind": "image",
+      "name": "svg-129",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\3f417e6ffb8810d0.svg",
+      "url": "inline-svg:3f417e6ffb8810d0"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1d25c852877eefca",
+      "kind": "image",
+      "name": "svg-130",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\1d25c852877eefca.svg",
+      "url": "inline-svg:1d25c852877eefca"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "18217930a3faf63b",
+      "kind": "image",
+      "name": "svg-131",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\18217930a3faf63b.svg",
+      "url": "inline-svg:18217930a3faf63b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "aaee7117177f521b",
+      "kind": "image",
+      "name": "svg-132",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\aaee7117177f521b.svg",
+      "url": "inline-svg:aaee7117177f521b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1cf20eb6c6ccafa7",
+      "kind": "image",
+      "name": "svg-133",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\1cf20eb6c6ccafa7.svg",
+      "url": "inline-svg:1cf20eb6c6ccafa7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "044847fe40241e46",
+      "kind": "image",
+      "name": "svg-134",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\044847fe40241e46.svg",
+      "url": "inline-svg:044847fe40241e46"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ed0da3f816501ae8",
+      "kind": "image",
+      "name": "svg-135",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\ed0da3f816501ae8.svg",
+      "url": "inline-svg:ed0da3f816501ae8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1fec4476569135d1",
+      "kind": "image",
+      "name": "svg-136",
+      "path": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\1fec4476569135d1.svg",
+      "url": "inline-svg:1fec4476569135d1"
+    }
+  ],
+  "directoryPath": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98",
+  "failures": [],
+  "manifestPath": "C:\\Users\\覃冠杰\\AppData\\Local\\Temp\\browser-use\\assets\\ec3ce730-c61c-432a-9ca7-f1ed61b30b98\\manifest.json",
+  "summary": {
+    "downloadedCount": 151,
+    "elapsedMs": 329.53590000001714,
+    "failedCount": 0,
+    "requestedCount": 151
+  }
+}
