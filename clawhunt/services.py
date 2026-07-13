@@ -38,9 +38,10 @@ def start_frontend(root: Path, node_exe: str, config: Dict) -> subprocess.Popen:
     env["Path"] = node_dir + os.pathsep + env.get("Path", "")
     env["PORT"] = str(port)
 
-    npm_path = Path(node_dir) / "npm.cmd"
-    cmd = [str(npm_path), "run", "dev"] if npm_path.exists() else \
-          [node_exe, "-e", f"require('vite').createServer({{ server: {{ host: '{host}', port: {port} }} }}).then(s => s.listen())"]
+    npm_path = Path(node_dir) / "npm"
+    if not npm_path.exists():
+        npm_path = Path(node_dir) / "npm.cmd"
+    cmd = [str(npm_path), "run", "dev"]
 
     print(f"[INFO] Starting frontend on http://{host}:{port}")
     print(f"[INFO] Working directory: {frontend_dir}")
