@@ -2,10 +2,14 @@
 .env
 .env.*
 !.env.example
+.envrc
+.pypirc
 
-# Node.js dependencies and build output
+# Node.js dependencies, caches, and build output
 node_modules/
 dist/
+coverage/
+.cache/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -16,23 +20,52 @@ pnpm-debug.log*
 clawhunt/vite.config.js
 clawhunt/vite.config.d.ts
 
-# Python environments, caches, and test output
+# Python environments and generated files
+.Python
 .venv/
 venv/
+env/
+ENV/
 __pycache__/
 *.py[cod]
 *$py.class
+*.so
+build/
+develop-eggs/
+eggs/
+.eggs/
+sdist/
+wheels/
+*.egg-info/
+*.egg
+
+# Python test, type-checking, and tool caches
 .pytest_cache/
 .mypy_cache/
+.dmypy.json
+dmypy.json
 .ruff_cache/
+.tox/
+.nox/
+.hypothesis/
 .coverage
 .coverage.*
+coverage.xml
 htmlcov/
+*.cover
+*.py.cover
 
-# Runtime data and logs
+# Framework and service runtime data
+instance/
+db.sqlite3
+db.sqlite3-journal
+*.rdb
+*.aof
+*.pid
+
+# Runtime logs and temporary files
 logs/
 *.log
-*.pid
 tmp/
 temp/
 
