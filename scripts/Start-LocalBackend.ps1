@@ -23,4 +23,5 @@ if (Test-Path $EnvFile) {
 }
 
 Set-Location (Join-Path $Root "backend")
-& $PythonExe -m uvicorn app.main:app --host 127.0.0.1 --port 8000 --reload
+$Port = if ($env:LOCAL_BACKEND_PORT) { [int]$env:LOCAL_BACKEND_PORT } else { 8001 }
+& $PythonExe -m uvicorn app.main:app --host 127.0.0.1 --port $Port
