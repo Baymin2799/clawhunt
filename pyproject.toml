@@ -1,0 +1,55 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "clawhunt"
+version = "0.1.0"
+description = "A ClawHunt-like AI task management platform"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [
+    { name = "Baymin2799" }
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Framework :: FastAPI",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+dependencies = [
+    #自定义
+    "asyncpg",
+
+    "fastapi==0.115.6",
+    "uvicorn[standard]==0.34.0",
+    "asyncpg==0.30.0",
+    "redis==5.2.1",
+    "sqlalchemy==2.0.36",
+    "alembic==1.14.0",
+    "pydantic-settings==2.7.1",
+    "httpx==0.28.1",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest==8.3.4",
+]
+
+[project.scripts]
+clawhunt = "MAIN:main"
+
+[tool.pytest.ini_options]
+testpaths = ["backend/tests"]
+pythonpath = ["backend"]
+
+[tool.uvicorn]
+host = "127.0.0.1"
+port = 8001
+reload = true
+app = "app.main:app"
