@@ -6,13 +6,13 @@
   },
   "services": {
     "backend": {
-      "host": "127.0.0.1",
+      "host": "0.0.0.0",
       "port": 8000,
       "reload": true,
       "workers": 1
     },
     "frontend": {
-      "host": "127.0.0.1",
+      "host": "0.0.0.0",
       "port": 5173
     }
   },
@@ -33,7 +33,7 @@
   },
   "auth": {
     "token_secret": "change-me",
-    "store": "postgres"
+    "store": "memory"
   },
   "paths": {
     "backend_dir": "backend",
