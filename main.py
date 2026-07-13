@@ -44,7 +44,7 @@ def find_node(root: Path) -> Optional[str]:
     return "node"
 
 
-def start_backend(root: Path, python_exe: str, port: int = 8001) -> subprocess.Popen:
+def start_backend(root: Path, python_exe: str, port: int = 8000) -> subprocess.Popen:
     backend_dir = root / "backend"
     env = os.environ.copy()
     env["PYTHONPATH"] = str(backend_dir) + os.pathsep + env.get("PYTHONPATH", "")
@@ -93,18 +93,25 @@ def start_frontend(root: Path, node_exe: str, port: int = 5173) -> subprocess.Po
     )
 
 
-def start_frontend_with_npm(root: Path, node_exe: str) -> subprocess.Popen:
+def start_frontend_with_npm(root: Path, node_exe: str, port: int = 5173) -> subprocess.Popen:
     frontend_dir = root / "clawhunt"
     env = os.environ.copy()
-    env["Path"] = str(Path(node_exe).parent) + os.pathsep + env.get("Path", "")
+    node_dir = str(Path(node_exe).parent)
+    env["Path"] = node_dir + os.pathsep + env.get("Path", "")
+    env["PORT"] = str(port)
 
-    cmd = [node_exe, "-e", "require('vite').createServer({ server: { host: '127.0.0.1', port: 5173 } }).then(s => s.listen())"]
+    npm_path = Path(node_dir) / "npm.cmd"
+    if npm_path.exists():
+        cmd = [str(npm_path), "run", "dev"]
+    else:
+        cmd = [node_exe, "-e", f"require('vite').createServer({{ server: {{ host: '127.0.0.1', port: {port} }} }}).then(s => s.listen())"]
 
-    print(f"[INFO] Starting frontend (npm run dev)")
+    print(f"[INFO] Starting frontend on http://127.0.0.1:{port}")
     print(f"[INFO] Working directory: {frontend_dir}")
+    print(f"[INFO] Command: {' '.join(cmd)}")
 
     return subprocess.Popen(
-        ["npm", "run", "dev"],
+        cmd,
         cwd=frontend_dir,
         env=env,
         stdout=subprocess.PIPE,
@@ -142,6 +149,21 @@ def monitor_processes(processes: List[subprocess.Popen]) -> None:
         print("[INFO] All services stopped.")
 
 
+def wait_for_port(port: int, timeout: int = 10) -> bool:
+    import socket
+    start = time.time()
+    while time.time() - start < timeout:
+        try:
+            with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as sock:
+                sock.settimeout(1)
+                if sock.connect_ex(("127.0.0.1", port)) == 0:
+                    return True
+        except:
+            pass
+        time.sleep(0.5)
+    return False
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="ClawHunt Service Manager")
     parser.add_argument(
@@ -153,8 +175,8 @@ def main() -> None:
     parser.add_argument(
         "--backend-port",
         type=int,
-        default=8001,
-        help="Backend service port (default: 8001)",
+        default=8000,
+        help="Backend service port (default: 8000)",
     )
     parser.add_argument(
         "--frontend-port",
@@ -165,8 +187,8 @@ def main() -> None:
     parser.add_argument(
         "--env-file",
         type=str,
-        default=".env.local",
-        help="Path to environment file (default: .env.local)",
+        default=".env",
+        help="Path to environment file (default: .env)",
     )
 
     args = parser.parse_args()
@@ -191,9 +213,16 @@ def main() -> None:
         processes.append(proc)
 
     if args.mode in ["frontend", "all"]:
+        if args.mode == "all":
+            print(f"[INFO] Waiting for backend to be ready on port {args.backend_port}...")
+            if wait_for_port(args.backend_port):
+                print(f"[INFO] Backend is ready")
+            else:
+                print(f"[WARNING] Backend not ready after timeout, proceeding anyway")
+        
         node_exe = find_node(root)
         print(f"[INFO] Using Node: {node_exe}")
-        proc = start_frontend_with_npm(root, node_exe)
+        proc = start_frontend_with_npm(root, node_exe, args.frontend_port)
         processes.append(proc)
 
     if processes:
