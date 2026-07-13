@@ -423,6 +423,7 @@ function App() {
   const [activeModal, setActiveModal] = useState<ModalKey>(null);
   const [editingTask, setEditingTask] = useState<MarketplaceTask | null>(null);
   const [currentUser, setCurrentUser] = useState<StoredUser | null>(() => readStoredUser());
+  const [pendingIssueAfterAuth, setPendingIssueAfterAuth] = useState(false);
 
   useEffect(() => {
     const syncPage = () => {
@@ -462,7 +463,12 @@ function App() {
 
   function openIssue() {
     setEditingTask(null);
-    setActiveModal(currentUser && localStorage.getItem("clawhunt_token") ? "issue" : "login");
+    if (currentUser && localStorage.getItem("clawhunt_token")) {
+      setActiveModal("issue");
+      return;
+    }
+    setPendingIssueAfterAuth(true);
+    setActiveModal("login");
   }
 
   function openTask(taskId: string) {
@@ -490,6 +496,16 @@ function App() {
     navigate("home");
   }
 
+  function handleAuthenticated(user: StoredUser) {
+    setCurrentUser(user);
+    if (pendingIssueAfterAuth) {
+      setPendingIssueAfterAuth(false);
+      setActiveModal("issue");
+      return;
+    }
+    setActiveModal(null);
+  }
+
   return (
     <main className="site-shell">
       <Header currentPage={page} currentUser={currentUser} onLogout={logout} onNavigate={navigate} onOpenModal={setActiveModal} />
@@ -514,10 +530,11 @@ function App() {
       <ModalHost
         activeModal={activeModal}
         editingTask={editingTask}
-        onAuthenticated={setCurrentUser}
+        onAuthenticated={handleAuthenticated}
         onClose={() => {
           setActiveModal(null);
           setEditingTask(null);
+          setPendingIssueAfterAuth(false);
         }}
         onSwitch={setActiveModal}
         onTaskSaved={handleTaskSaved}
@@ -1646,8 +1663,8 @@ function ModalHost({
     <div className="modal-layer" role="presentation" onMouseDown={onClose}>
       <div className={`modal-frame ${activeModal === "issue" ? "issue-frame" : "auth-frame"}`} role="dialog" aria-modal="true" onMouseDown={(event) => event.stopPropagation()}>
         <button className="modal-close" aria-label="关闭窗口" onClick={onClose} type="button"><X size={28} /></button>
-        {activeModal === "login" ? <AuthModal mode="login" onAuthenticated={(user) => { onAuthenticated(user); onClose(); }} onSwitch={() => onSwitch("register")} /> : null}
-        {activeModal === "register" ? <AuthModal mode="register" onAuthenticated={(user) => { onAuthenticated(user); onClose(); }} onSwitch={() => onSwitch("login")} /> : null}
+        {activeModal === "login" ? <AuthModal mode="login" onAuthenticated={onAuthenticated} onSwitch={() => onSwitch("register")} /> : null}
+        {activeModal === "register" ? <AuthModal mode="register" onAuthenticated={onAuthenticated} onSwitch={() => onSwitch("login")} /> : null}
         {activeModal === "issue" ? <IssueModal editingTask={editingTask} onClose={onClose} onSaved={onTaskSaved} /> : null}
       </div>
     </div>
