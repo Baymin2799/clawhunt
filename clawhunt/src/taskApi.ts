@@ -134,14 +134,21 @@ export function currentUserId() {
   }
 }
 
-async function apiRequest<T>(url: string, options: RequestInit = {}): Promise<T> {
+async function apiRequest<T>(url: string, options: RequestInit = {}, retry = true): Promise<T> {
   const headers = new Headers(options.headers);
   if (options.body) headers.set("Content-Type", "application/json");
   const token = authToken();
   if (token) headers.set("Authorization", `Bearer ${token}`);
   const response = await fetch(url, { ...options, headers });
+  
   if (!response.ok) {
-    let detail = `请求失败（${response.status}）`;
+    if (response.status === 401 && retry && token) {
+      localStorage.removeItem("clawhunt_token");
+      localStorage.removeItem("clawhunt_user");
+      return apiRequest(url, options, false);
+    }
+    
+    let detail = `请求错误 ${response.status}`;
     try {
       const body = await response.json();
       if (typeof body.detail === "string") detail = body.detail;

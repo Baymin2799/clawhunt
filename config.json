@@ -1,0 +1,51 @@
+{
+  "project": {
+    "name": "clawhunt",
+    "version": "0.1.0",
+    "description": "ClawHunt AI Task Management Platform"
+  },
+  "services": {
+    "backend": {
+      "host": "127.0.0.1",
+      "port": 8000,
+      "reload": true,
+      "workers": 1
+    },
+    "frontend": {
+      "host": "127.0.0.1",
+      "port": 5173
+    }
+  },
+  "database": {
+    "type": "postgresql",
+    "host": "localhost",
+    "port": 5432,
+    "name": "clawhunt",
+    "user": "clawhunt",
+    "password": "change-me",
+    "url_template": "postgresql://{user}:{password}@{host}:{port}/{name}"
+  },
+  "redis": {
+    "host": "localhost",
+    "port": 6379,
+    "db": 0,
+    "url_template": "redis://{host}:{port}/{db}"
+  },
+  "auth": {
+    "token_secret": "change-me",
+    "store": "postgres"
+  },
+  "paths": {
+    "backend_dir": "backend",
+    "frontend_dir": "clawhunt",
+    "venv_dir": "backend/.venv",
+    "env_file": ".env"
+  },
+  "openagents": {
+    "workspace_api_url": "https://workspace-endpoint.openagents.org",
+    "workspace_id": null,
+    "agent": "superclaw",
+    "poll_interval_seconds": 2,
+    "timeout_seconds": 300
+  }
+}
